@@ -1,8 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Syed, an MSIT student at Kennesaw State University </p>
-<h3>Things I code with</h3>
+<p>Welcome to my page! </br> I'm Syed, a graduate MSIT student at Kennesaw State University </p>
+<h3>Technologies I'm improving with</h3>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+
 
 
 <h3>Where to find me</h3>
