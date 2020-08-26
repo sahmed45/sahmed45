@@ -2,11 +2,11 @@
 
 
 <p>Welcome to my page! </br> I'm Syed, a graduate MSIT student at Kennesaw State University </p>
-<h3>Technologies I'm improving with</h3>
+<h3>Technologies I'm working with</h3>
 
 <p>Networking: TCP/IP, OSPF, ACLs, Wireshark, VPN</p>
 <p>Operating Systems: Windows, Linux, Cisco IOS, WSL</p>
-<p>Languages Python:, Java, SQL, Javascript LaTeX, HTML, CSS, Bash</p>
+<p>Languages: Python, Java, SQL, Javascript LaTeX, HTML, CSS, Bash</p>
 <p>Cloud: AWS EC2, S3, Route 53, CloudFront, IAM</p>
 
 <h3>Where to find me</h3>
