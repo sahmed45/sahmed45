@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Syed, a graduate MSIT student at Kennesaw State University </p>
+<p>Welcome to my page! </br> I'm Syed, a graduate MSIT student at Kennesaw State University. </p>
 <h3>Technologies I'm working with</h3>
 
 <p>Networking: TCP/IP, OSPF, ACLs, Wireshark, VPN</p>
