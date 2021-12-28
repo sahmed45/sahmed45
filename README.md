@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> Graduate student into Software Engineering, DevOps, Cloud Computing, and Networking. Currently learning more everyday about DevOps and engineering excellent software while gaining the skills necessary for providing solutions. </p>
+<p>Welcome to my page! </br> Software Engineer </p>
 <h3>Technologies I'm working with</h3>
 
 <p>Networking: TCP/IP, OSPF, ACLs, Wireshark, VPN</p>
